@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding-top: 56px;
+}
+
+.section {
+    padding: 60px 0;
+}
+
+.section h2 {
+    margin-bottom: 40px;
+}
+
+.section.bg-primary {
+    background-color: #007bff;
+    color: white;
+}
+
+.section.bg-light {
+    background-color: #f8f9fa;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
